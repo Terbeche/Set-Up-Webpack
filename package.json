@@ -1,0 +1,27 @@
+{
+  "name": "set-up-webpack",
+  "version": "1.0.0",
+  "description": "> This is our microverse awesome books project on html + css+ modular javascript.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Terbeche/Set-Up-Webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Terbeche/Set-Up-Webpack/issues"
+  },
+  "homepage": "https://github.com/Terbeche/Set-Up-Webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
