@@ -1,6 +1,6 @@
 # Set-Up-Webpack
 
-> This is our microverse awesome books project on html + css+ modular javascript.
+> This is our microverse awesome books project on html + css+ modular javascript and webpack.
 
 ## Built With
 
