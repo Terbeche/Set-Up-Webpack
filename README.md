@@ -10,7 +10,7 @@
 - Linter
 
 ## Link to project online
-- [Online Version](https://terbeche.github.io/Awesome-Books/)
+- [Online Version]()
 
 
 ## Authors
