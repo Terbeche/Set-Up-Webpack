@@ -1,6 +1,6 @@
 # Set-Up-Webpack
 
-> This is our microverse awesome books project on html + css+ modular javascript.
+> This is our microverse awesome books project on html + css+ modular javascript and webpack.
 
 ## Built With
 
@@ -10,7 +10,7 @@
 - Linter
 
 ## Link to project online
-- [Online Version](https://terbeche.github.io/Awesome-Books/)
+- [Online Version]()
 
 
 ## Authors
